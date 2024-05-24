@@ -1,0 +1,88 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin_user",
+      "password": "Admin@123",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "test1",
+      "name": "Admin_user",
+      "password": "Admin@123",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "TeamMember",
+      "isactive": false
+    },
+    {
+      "id": "test2",
+      "name": "Admin_user",
+      "password": "Admin@123",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "TeamMember",
+      "isactive": true
+    },
+    {
+      "id": "test3",
+      "name": "Admin_user",
+      "password": "Admin@123",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "TeamMember",
+      "isactive": true
+    },
+    {
+      "id": "test4",
+      "name": "Admin_user",
+      "password": "Admin@123",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "teammember",
+      "isactive": true
+    },
+    {
+      "id": "test5",
+      "name": "Admin_user",
+      "password": "Admin@123",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "TeamMember",
+      "isactive": true
+    },
+    {
+      "id": "abhishek",
+      "name": "Abhishek",
+      "password": "Abhi@1234",
+      "email": "abhisheknsalian@gmail.com",
+      "gender": "male",
+      "role": "projectmanager",
+      "isactive": true
+    },
+    {
+      "id": "suhel",
+      "name": "Suhel",
+      "password": "Suhel@123",
+      "email": "suhel@gmail.com",
+      "gender": "male",
+      "role": "ProjectManager",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "ProjectManager",
+      "name": "Project Manager",
+      "id": "12f8"
+    },
+    {
+      "code": "TeamMember",
+      "name": "Team Member",
+      "id": "4efd"
+    }
+  ]
+}
